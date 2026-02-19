@@ -16,6 +16,12 @@
 
 The Agent2Agent (A2A) Protocol is an open standard designed to facilitate communication and interoperability between independent, potentially opaque AI agent systems. In an ecosystem where agents might be built using different frameworks, languages, or by different vendors, A2A provides a common language and interaction model, enabling agents to discover capabilities, negotiate modalities, and collaborate on complex tasks.
 
+## DeepLearning.AI Course
+
+[![A2A DeepLearning.AI](https://img.youtube.com/vi/4gYm0Rp7VHc/maxresdefault.jpg)](https://goo.gle/dlai-a2a)
+
+Join this short course on [A2A: The Agent2Agent Protocol](https://goo.gle/dlai-a2a), built in partnership with Google Cloud and IBM Research, and taught by [Holt Skinner](https://github.com/holtskinner), [Ivan Nardini](https://github.com/inardini), and [Sandi Besen](https://github.com/sandijean90).
+
 ## Getting Started
 
 - 📚 Read the [Documentation](https://a2a-protocol.org) for guides and tutorials
@@ -29,15 +35,15 @@ The Agent2Agent (A2A) Protocol is an open standard designed to facilitate commun
 
 ## Project Structure
 
-- [A2A](https://github.com/a2aproject/A2A) - Core protocol specification and technical documentation
-- [a2a-python](https://github.com/a2aproject/a2a-python) - Official Python SDK implementation
-- [a2a-js](https://github.com/a2aproject/a2a-js) - Official JavaScript/TypeScript SDK implementation
-- [a2a-java](https://github.com/a2aproject/a2a-java) - Official Java SDK implementation
-- [a2a-go](https://github.com/a2aproject/a2a-go) - Official Go SDK implementation
-- [a2a-dotnet](https://github.com/a2aproject/a2a-dotnet) - Official C#/.NET SDK implementation
-- [a2a-samples](https://github.com/a2aproject/a2a-samples) - Example agents, clients, and multi-agent workflows
-- [a2a-inspector](https://github.com/a2aproject/a2a-inspector) - Validation tools for A2A-enabled agents
-- [a2a-tck](https://github.com/a2aproject/a2a-tck) - Technology Compatibility Kit for implementation testing
+- [`A2A`](https://github.com/a2aproject/A2A) - Core protocol specification and technical documentation
+- [`a2a-python`](https://github.com/a2aproject/a2a-python) - Official Python SDK implementation
+- [`a2a-js`](https://github.com/a2aproject/a2a-js) - Official JavaScript/TypeScript SDK implementation
+- [`a2a-java`](https://github.com/a2aproject/a2a-java) - Official Java SDK implementation
+- [`a2a-go`](https://github.com/a2aproject/a2a-go) - Official Go SDK implementation
+- [`a2a-dotnet`](https://github.com/a2aproject/a2a-dotnet) - Official C#/.NET SDK implementation
+- [`a2a-samples`](https://github.com/a2aproject/a2a-samples) - Example agents, clients, and multi-agent workflows
+- [`a2a-inspector`](https://github.com/a2aproject/a2a-inspector) - Validation tools for A2A-enabled agents
+- [`a2a-tck`](https://github.com/a2aproject/a2a-tck) - Technology Compatibility Kit for implementation testing
 
 ## Contributing
 
