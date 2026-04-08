@@ -25,13 +25,14 @@ Join this short course on [A2A: The Agent2Agent Protocol](https://goo.gle/dlai-a
 ## Getting Started
 
 - 📚 Read the [Documentation](https://a2a-protocol.org) for guides and tutorials
-- 🔍 Review the [Specification](https://github.com/a2aproject/A2A/blob/main/docs/specification.md) for protocol details
+- 🔍 Review the [Specification](https://a2a-protocol.org/latest/specification/) for protocol details
 - 💻 Use our SDKs to start building:
   - [Python SDK](https://github.com/a2aproject/a2a-python)
   - [JavaScript/TypeScript SDK](https://github.com/a2aproject/a2a-js)
   - [Java SDK](https://github.com/a2aproject/a2a-java)
   - [Go SDK](https://github.com/a2aproject/a2a-go)
-  - [.NET SDK](https://github.com/a2aproject/a2a-dotnet)
+  - [C#/.NET SDK](https://github.com/a2aproject/a2a-dotnet)
+  - [Rust SDK](https://github.com/a2aproject/a2a-rs)
 
 ## Project Structure
 
