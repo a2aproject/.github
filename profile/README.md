@@ -36,11 +36,13 @@ Join this short course on [A2A: The Agent2Agent Protocol](https://goo.gle/dlai-a
 ## Project Structure
 
 - [`A2A`](https://github.com/a2aproject/A2A) - Core protocol specification and technical documentation
-- [`a2a-python`](https://github.com/a2aproject/a2a-python) - Official Python SDK implementation
-- [`a2a-js`](https://github.com/a2aproject/a2a-js) - Official JavaScript/TypeScript SDK implementation
-- [`a2a-java`](https://github.com/a2aproject/a2a-java) - Official Java SDK implementation
-- [`a2a-go`](https://github.com/a2aproject/a2a-go) - Official Go SDK implementation
-- [`a2a-dotnet`](https://github.com/a2aproject/a2a-dotnet) - Official C#/.NET SDK implementation
+- SDKs
+  - [`a2a-python`](https://github.com/a2aproject/a2a-python) - Official Python SDK
+  - [`a2a-js`](https://github.com/a2aproject/a2a-js) - Official JavaScript/TypeScript SDK
+  - [`a2a-java`](https://github.com/a2aproject/a2a-java) - Official Java SDK
+  - [`a2a-go`](https://github.com/a2aproject/a2a-go) - Official Go SDK
+  - [`a2a-dotnet`](https://github.com/a2aproject/a2a-dotnet) - Official C#/.NET SDK
+  - [`a2a-rs`](https://github.com/a2aproject/a2a-rs) - Official Rust SDK
 - [`a2a-samples`](https://github.com/a2aproject/a2a-samples) - Example agents, clients, and multi-agent workflows
 - [`a2a-inspector`](https://github.com/a2aproject/a2a-inspector) - Validation tools for A2A-enabled agents
 - [`a2a-tck`](https://github.com/a2aproject/a2a-tck) - Technology Compatibility Kit for implementation testing
