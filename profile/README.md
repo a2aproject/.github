@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://a2a-protocol.org">Documentation</a> |
   <a href="https://a2a-protocol.org/latest/specification/">Specification</a> |
-  <a href="https://github.com/orgs/a2aproject/discussions">Discussions</a>
+  <a href="https://github.com/a2aproject/A2A/discussions">Discussions</a>
 </p>
 
 The Agent2Agent (A2A) Protocol is an open standard designed to facilitate communication and interoperability between independent, potentially opaque AI agent systems. In an ecosystem where agents might be built using different frameworks, languages, or by different vendors, A2A provides a common language and interaction model, enabling agents to discover capabilities, negotiate modalities, and collaborate on complex tasks.
@@ -50,9 +50,9 @@ Join this short course on [A2A: The Agent2Agent Protocol](https://goo.gle/dlai-a
 
 ## Contributing
 
-We welcome contributions of all kinds! Whether you want to fix bugs, improve documentation, or propose new protocol extensions, please see our [contributing guide](CONTRIBUTING.md) to get started.
+We welcome contributions of all kinds! Whether you want to fix bugs, improve documentation, or propose new protocol extensions, please see our [contributing guide](../CONTRIBUTING.md) to get started.
 
-Have questions? Join the discussion in our [community forum](https://github.com/orgs/a2aproject/discussions).
+Have questions? Join the discussion in our [community forum](https://github.com/a2aproject/A2A/discussions).
 
 ## About
 
