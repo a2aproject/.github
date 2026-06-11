@@ -47,7 +47,7 @@ Join this short course on [A2A: The Agent2Agent Protocol](https://goo.gle/dlai-a
 
 ## Contributing
 
-We welcome contributions of all kinds! Whether you want to fix bugs, improve documentation, or propose new protocol extensions, please see our [contributing guide](../CONTRIBUTING.md) to get started.
+We welcome contributions of all kinds! Whether you want to fix bugs, improve documentation, or propose new protocol extensions, please see our [contributing guide](https://github.com/a2aproject/.github/blob/main/CONTRIBUTING.md) to get started.
 
 Have questions? Join the discussion in our [community forum](https://github.com/a2aproject/A2A/discussions).
 
