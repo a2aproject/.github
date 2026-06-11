@@ -1,7 +1,7 @@
 # Agent2Agent (A2A) Protocol
 
 <p align="center">
-    <img src="https://a2a-protocol.org/latest/assets/a2a-logo-black.svg" alt="Agent2Agent Protocol Logo" width="100">
+    <img src="https://a2a-protocol.org/latest/assets/a2a_logo/color/SVG/a2a_color.svg" alt="Agent2Agent Protocol Logo" width="500">
 </p>
 
 <p align="center">
